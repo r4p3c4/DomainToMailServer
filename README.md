@@ -85,27 +85,26 @@ Accedes a new scan y pones un nombre al escaneo y el dominio que quieres escanea
 <img src="https://i.postimg.cc/t4vSnvfs/14.jpg">
 
 
-
+Ahora seleccionas que el modo de escaneo va a ser por modulo y haces click en De-select All para desactivar todos los modulos
 
 <img src="https://i.postimg.cc/Zq1p2nVL/15.jpg">
 
 
-
+Activas el modulo que hemos importado al programa
 
 <img src="https://i.postimg.cc/TPyntgqw/16.jpg">
 
 
+A bajo del todo saldrá la opción Run Scan Now , y le haces click
 
 <img src="https://i.postimg.cc/K8pn7JTw/17.jpg">
 
 
-
+Una vez finalizado el escaneo saldrá lo siguiente y le haces click en Email Gateway (DNS MX Records):
 
 <img src="https://i.postimg.cc/NMmmctnv/18.jpg">
 
-
-
-
+Ya nos mostrará los servidores de correo asociados al dominio que se ha puesto de ejemplo
 
 <img src="https://i.postimg.cc/FzxGrT3s/19.jpg">
 
