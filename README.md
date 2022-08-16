@@ -20,10 +20,7 @@ Instalas git
 sudo apt-get install git
 <img src="https://i.postimg.cc/N0LnNvT8/3.jpg">
 
-Listas tu directorio actual y como por ejemplo accedes a tu escritorio
-Lo listas con el comando ls
-
-Accedes a la carpeta del escritorio con el comando cd Desktop
+Listas tu directorio actual y como por ejemplo accedes a la carpeta del escritorio con el comando cd Desktop
 
 <img src="https://i.postimg.cc/YqwJtVKk/4.jpg">
 
