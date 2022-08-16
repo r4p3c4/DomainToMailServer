@@ -8,7 +8,7 @@ Actualizas los paquetes
 sudo apt-get update
 
 
-Instalas python y pip3
+Instalas python3 y pip3
 
 
 sudo apt-get install python3-pip python3
