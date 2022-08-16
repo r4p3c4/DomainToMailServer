@@ -85,6 +85,7 @@ python3 ./sf.py -l 127.0.0.1:3000
 
 
 **Accedes a new scan y pones un nombre al escaneo y el dominio que quieres escanear:**
+
 <img src="https://i.postimg.cc/t4vSnvfs/14.jpg">
 
 
