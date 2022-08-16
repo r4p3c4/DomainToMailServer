@@ -106,7 +106,7 @@ python3 ./sf.py -l 127.0.0.1:3000
 <img src="https://i.postimg.cc/TPyntgqw/16.jpg">
 
 
-**A bajo del todo saldrá la opción Run Scan Now , y le haces click:**
+**A bajo del todo saldrá la opción "Run Scan Now" , y le haces click:**
 
 <img src="https://i.postimg.cc/K8pn7JTw/17.jpg">
 
