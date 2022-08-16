@@ -1,4 +1,4 @@
-# Linkdn
+# Linkedin
 <a href="https://www.linkedin.com/in/rafael-peiro-calvet/"><img src="https://i.postimg.cc/8zsFGvXV/logo.jpg"></a>
 
 # Versión de python utilizada
