@@ -56,23 +56,39 @@ cd spiderfoot/
 <img src="https://i.postimg.cc/2jnK9wqt/9.jpg">
 
 
-
 Ejecutas el siguiente comando para instalar todas las dependencias para poder utilizar la herramienta de spiderfoot
 
 sudo pip3 install -r requirements.txt
 
+<img src="https://i.postimg.cc/tJdv1qQb/10.jpg">
+
 
 Copias el modulo DomainToMailServer en la carpeta de modulos de SpiderFoot
 
-
-
-
-
+<img src="https://i.postimg.cc/c4Z5pnwL/11.jpg">
 
 
 Para ejecutar el programa 
 
 python3 ./sf.py -l 127.0.0.1:3000
+
+<img src="https://i.postimg.cc/k5kTf679/12.jpg">
+
+<img src="https://i.postimg.cc/3JBbYxFC/13.jpg">
+
+<img src="https://i.postimg.cc/t4vSnvfs/14.jpg">
+
+<img src="https://i.postimg.cc/sxzwCkBN/15.jpg">
+
+<img src="https://i.postimg.cc/Y9YbVrSF/16.jpg">
+
+<img src="https://i.postimg.cc/595sS2Td/17.jpg">
+
+<img src="https://i.postimg.cc/1zgWGchJ/18.jpg">
+
+<img src="https://i.postimg.cc/FzxGrT3s/19.jpg">
+
+
 
 
 
