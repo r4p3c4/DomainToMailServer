@@ -27,6 +27,9 @@ Lo listas con el comando ls
 
 
 Accedes a la carpeta del escritorio con el comando cd Desktop
+<img src="https://i.postimg.cc/Xq6D7ZPx/5.jpg">
+
+
 
 
 Te descargas el modulo DomainToMailServer
