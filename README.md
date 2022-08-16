@@ -31,6 +31,10 @@ Te descargas el modulo DomainToMailServer
 
 git clone https://github.com/r4p3c4/DomainToMailServer.git
 
+Haces un ls para ver el contenido de la carpeta actual
+
+
+
 
 Te descargas el programa de SpyderFoot
 
