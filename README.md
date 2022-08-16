@@ -1,4 +1,4 @@
-[![Twitter Follow](https://img.shields.io/twitter/follow/spiderfoot?label=follow&style=social)](https://twitter.com/spiderfoot)
+[![Linkdn Follow](https://img.shields.io/linkdn/follow/rafael-peiro-calvet?label=follow&style=social)](https://www.linkedin.com/in/rafael-peiro-calvet/)
 
 # DomainToMailServer
 DomainToMailServer is a module created for Spiderfoot, whose function is to obtain the mail servers corresponding to the domain you enter
