@@ -1,6 +1,7 @@
 
 # DomainToMailServer
-DomainToMailServer is a module created for Spiderfoot, whose function is to obtain the mail servers corresponding to the domain you enter
+
+DomainToMailServer es un módulo creado para Spiderfoot, cuya función es obtener los servidores de correo correspondientes al dominio que ingreses
 
 # Requisitos y pasos a seguir
 
