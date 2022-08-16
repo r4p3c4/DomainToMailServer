@@ -1,6 +1,6 @@
 [![Python Version](https://img.shields.io/badge/python-3.9+-green)](https://www.python.org)
 
-<a link="hola.com"><img src="https://i.postimg.cc/8zsFGvXV/logo.jpg"></a>
+<a href="hola.com"><img src="https://i.postimg.cc/8zsFGvXV/logo.jpg"></a>
 
 
 
