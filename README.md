@@ -1,8 +1,7 @@
+# Linkdn
+<a href="https://www.linkedin.com/in/rafael-peiro-calvet/"><img src="https://i.postimg.cc/8zsFGvXV/logo.jpg"></a>
+
 [![Python Version](https://img.shields.io/badge/python-3.9+-green)](https://www.python.org)
-
-<a href="hola.com"><img src="https://i.postimg.cc/8zsFGvXV/logo.jpg"></a>
-
-
 
 # DomainToMailServer
 
