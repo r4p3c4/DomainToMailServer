@@ -8,6 +8,16 @@ Actualizas los paquetes
 
 sudo apt-get update
 
+<img src="https://i.postimg.cc/X7ctq845/1.jpg">
+
+
+
+
+
+
+
+
+
 
 Instalas python3 y pip3
 
