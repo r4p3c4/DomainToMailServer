@@ -19,6 +19,14 @@ Instalas git
 
 sudo apt-get install git
 
+
+Listas tu directorio actual y como por ejemplo accedes a tu escritorio
+
+Lo listas con el comando ls
+
+Accedes a la carpeta del escritorio con el comando cd Desktop
+
+
 Te descargas el modulo DomainToMailServer
 
 git clone https://github.com/r4p3c4/DomainToMailServer.git
