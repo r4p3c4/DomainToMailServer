@@ -1,3 +1,8 @@
+[![Python Version](https://img.shields.io/badge/python-3.9+-green)](https://www.python.org)
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
+
 
 # DomainToMailServer
 
