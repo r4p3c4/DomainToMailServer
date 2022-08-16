@@ -19,6 +19,7 @@ sudo apt-get install python3-pip python3
 **Instalas git:** 
 
 sudo apt-get install git
+
 <img src="https://i.postimg.cc/N0LnNvT8/3.jpg">
 
 **Listas tu directorio actual y como por ejemplo accedes a la carpeta del escritorio con el comando cd Desktop:**
