@@ -10,30 +10,21 @@ sudo apt-get update
 
 <img src="https://i.postimg.cc/X7ctq845/1.jpg">
 
-
-
-
-
-
-
-
-
-
 Instalas python3 y pip3
-
-
 sudo apt-get install python3-pip python3
 
-
+<img src="https://i.postimg.cc/wBPGZ4cC/2.jpg">
 
 Instalas git 
 
 sudo apt-get install git
-
+<img src="https://i.postimg.cc/N0LnNvT8/3.jpg">
 
 Listas tu directorio actual y como por ejemplo accedes a tu escritorio
-
 Lo listas con el comando ls
+
+<img src="https://i.postimg.cc/YqwJtVKk/4.jpg">
+
 
 Accedes a la carpeta del escritorio con el comando cd Desktop
 
