@@ -72,10 +72,12 @@ Para ejecutar el programa
 
 python3 ./sf.py -l 127.0.0.1:3000
 
+
+Al acceder verás la página principal
 <img src="https://i.postimg.cc/k5kTf679/12.jpg">
 
 
-
+Accedes a new scan y pones un nombre al escaneo y el dominio que quieres escanear 
 <img src="https://i.postimg.cc/3JBbYxFC/13.jpg">
 
 
