@@ -3,7 +3,7 @@
 DomainToMailServer es un módulo creado para Spiderfoot, cuya función es obtener los servidores de correo correspondientes al dominio que ingreses
 
 # Linkedin
-<a href="https://www.linkedin.com/in/rafael-peiro-calvet/" target="_blank"><img src="https://i.postimg.cc/8zsFGvXV/logo.jpg"></a>
+<a href="https://www.linkedin.com/in/rafael-peiro-calvet/"><img src="https://i.postimg.cc/8zsFGvXV/logo.jpg"></a>
 
 # Versión de python utilizada
 
