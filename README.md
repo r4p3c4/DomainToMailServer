@@ -34,19 +34,28 @@ git clone https://github.com/r4p3c4/DomainToMailServer.git
 
 Haces un ls para ver el contenido de la carpeta actual
 
-
+<img src="https://i.postimg.cc/XYjmCCYz/6.jpg">
 
 
 Te descargas el programa de SpyderFoot
 
 git clone https://github.com/smicallef/spiderfoot.git
 
+<img src="https://i.postimg.cc/MTQFS09v/7.jpg">
+
+
 Haces un ls para ver el contenido de la carpeta actual
+
+<img src="https://i.postimg.cc/P5Scz5Lr/8.jpg">
 
 
 Accedes a la carpeta creada de spiderfoot
 
 cd spiderfoot/
+
+<img src="https://i.postimg.cc/2jnK9wqt/9.jpg">
+
+
 
 Ejecutas el siguiente comando para instalar todas las dependencias para poder utilizar la herramienta de spiderfoot
 
