@@ -74,17 +74,37 @@ python3 ./sf.py -l 127.0.0.1:3000
 
 <img src="https://i.postimg.cc/k5kTf679/12.jpg">
 
+
+
 <img src="https://i.postimg.cc/3JBbYxFC/13.jpg">
+
+
+
 
 <img src="https://i.postimg.cc/t4vSnvfs/14.jpg">
 
+
+
+
 <img src="https://i.postimg.cc/sxzwCkBN/15.jpg">
+
+
+
 
 <img src="https://i.postimg.cc/Y9YbVrSF/16.jpg">
 
+
+
 <img src="https://i.postimg.cc/595sS2Td/17.jpg">
 
+
+
+
 <img src="https://i.postimg.cc/1zgWGchJ/18.jpg">
+
+
+
+
 
 <img src="https://i.postimg.cc/FzxGrT3s/19.jpg">
 
