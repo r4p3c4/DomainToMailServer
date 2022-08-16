@@ -1,7 +1,7 @@
 # DomainToMailServer
 DomainToMailServer is a module created for Spiderfoot, whose function is to obtain the mail servers corresponding to the domain you enter
 
-# Requisitos
+# Requisitos y pasos a seguir
 
 Actualizas los paquetes
 
@@ -19,6 +19,10 @@ Instalas git
 
 sudo apt-get install git
 
+Te descargas el modulo DomainToMailServer
+
+git clone https://github.com/r4p3c4/DomainToMailServer.git
+
 
 Te descargas el programa de SpyderFoot
 
@@ -29,11 +33,12 @@ Accedes a la carpeta creada de spiderfoot
 
 cd spiderfoot/
 
-
 Ejecutas el siguiente comando para instalar todas las dependencias para poder utilizar la herramienta de spiderfoot
 
 sudo pip3 install -r requirements.txt
 
+
+Copias el modulo DomainToMailServer en la carpeta de modulos de SpiderFoot
 
 
 
