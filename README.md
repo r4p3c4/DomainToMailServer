@@ -40,6 +40,8 @@ Te descargas el programa de SpyderFoot
 
 git clone https://github.com/smicallef/spiderfoot.git
 
+Haces un ls para ver el contenido de la carpeta actual
+
 
 Accedes a la carpeta creada de spiderfoot
 
