@@ -11,6 +11,7 @@ sudo apt-get update
 <img src="https://i.postimg.cc/X7ctq845/1.jpg">
 
 **Instalas python3 y pip3:**
+
 sudo apt-get install python3-pip python3
 
 <img src="https://i.postimg.cc/wBPGZ4cC/2.jpg">
