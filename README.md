@@ -113,7 +113,9 @@ python3 ./sf.py -l 127.0.0.1:3000
 
 **Una vez finalizado el escaneo saldrá lo siguiente y le haces click en Email Gateway (DNS MX Records):**
 
-<img src="https://i.postimg.cc/NMmmctnv/18.jpg">
+<div>
+  <img align=center src="https://i.postimg.cc/NMmmctnv/18.jpg">
+</div>
 
 **Ya nos mostrará los servidores de correo asociados al dominio que se ha puesto de ejemplo:**
 
